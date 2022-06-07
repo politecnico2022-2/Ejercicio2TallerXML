@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE Pedidos SYSTEM "Programadores.dtd">
+<!--<Pedidos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Programadores.xsd">-->
+<Pedidos>
+    <Pedido>
+        <Serie>#365FB8C96S5F</Serie>
+        <Cantidad>36</Cantidad>
+        <Peso>333.584884</Peso>
+    </Pedido>
+
+    <Pedido>
+        <Serie>#AHBX859E6</Serie>
+        <Cantidad>5</Cantidad>
+    </Pedido>
+</Pedidos>
